@@ -1,5 +1,4 @@
-Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Serkan.
-=====================================================================================================================================
+<h1 align="center">Hello There 👋 I'm Serkan.</h1>
 
 I'm currently studying Computer Engineering at Bilecik Şeyh Edebali University and I'm trying to improve my code and programming knowledge to get better and better everday.
 
